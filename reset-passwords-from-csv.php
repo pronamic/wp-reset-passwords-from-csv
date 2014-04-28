@@ -2,7 +2,7 @@
 /*
 Plugin Name: Reset passwords from CSV
 Plugin URI: http://www.happywp.com/plugins/reset-passwords-from-csv/
-Description: Rset user passwords from a CSV file into WordPress.
+Description: Reset user passwords from a CSV file into WordPress.
 
 Author: Pronamic
 Author URI: http://www.pronamic.eu/
